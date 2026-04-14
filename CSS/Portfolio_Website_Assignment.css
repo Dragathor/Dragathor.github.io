@@ -158,10 +158,8 @@ li:hover video {
 	margin-left: auto;
     overflow: hidden;
   	display: block;
-  	width: 250px;
-  	white-space: nowrap;
   	overflow: hidden;
-  	text-overflow: ellipsis;
+    width: 70%;
 }
 
 .initial-text {
