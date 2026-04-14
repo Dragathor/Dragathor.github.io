@@ -153,6 +153,17 @@ li:hover video {
     overflow: hidden;
 }
 
+.container3 {
+	margin-right: auto;
+	margin-left: auto;
+    overflow: hidden;
+  	display: block;
+  	width: 250px;
+  	white-space: nowrap;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+}
+
 .initial-text {
     padding-top: 300px;
     padding-bottom: 200px;
