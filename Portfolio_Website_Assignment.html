@@ -64,7 +64,7 @@
             <div class="row" id="Contact">
                 <div class="column">
                     <h3>Contact</h3>
-				<div class="container">
+				<div class="container3">
 							<form action="" method="post">
 								<input class="application" type="text" value="" placeholder="Name">
 								<input class="application" type="text" value="" placeholder="Email">
