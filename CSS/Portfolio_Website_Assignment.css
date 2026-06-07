@@ -216,7 +216,7 @@ h3 {
     max-height: 500px;
     position: relative;
     margin: auto;
-    overflow: auto;
+    overflow: scroll;
 }
 
 .prev, .next {
